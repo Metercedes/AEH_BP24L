@@ -2,18 +2,22 @@ package pl.pp;
 import java.util.Scanner;
 public class mySecondApp {
     public static void main(String[] args) {
-            // Create an integer variable x and assign the value of 10
-            int x = 10;
+        // Create a Scanner object to read input from the user
+        Scanner scanner = new Scanner(System.in);
 
-            // Calculate the double of x
-            int doubleX = 2 * x;
+        // Ask the user to enter their age in years
+        System.out.print("Enter your age in years: ");
 
-            // Calculate the value of x squared
-            int xSquared = x * x;
+        // Read the age input from the user
+        int ageInYears = scanner.nextInt();
 
-            // Display the values on the console along with descriptions
-            System.out.println("x = " + x);                  // Displays the value of x
-            System.out.println("Double of x = " + doubleX); // Displays the double of x
-            System.out.println("x squared = " + xSquared); // Displays the value of x squared
+        // Close the scanner to prevent resource leak
+        scanner.close();
+
+        // Calculate the age in seconds (1 year = 365.25 days, 1 day = 24 hours, 1 hour = 3600 seconds)
+        long ageInSeconds = (long) ageInYears * 365 * 24 * 3600;
+
+        // Display the age in seconds with proper description
+        System.out.println("Your age in seconds: " + ageInSeconds);
         }
     }
