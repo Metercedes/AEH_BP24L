@@ -7,18 +7,18 @@ public class myThirdApp {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.print("Enter the number of days (enter a non-positive value to evac): ");
-            int days = scanner.nextInt();
+            System.out.print("Enter the temperature in Celsius (enter -1 to exit): ");
+            double celsius = scanner.nextDouble();
 
-            if (days <= 0) {
-                System.out.println("Evacuating program...");
+            if (celsius == -1) {
+                System.out.println("Exiting program...");
                 break;
             }
 
-            int weeks = days / 7;
-            int remainingDays = days % 7;
+            double fahrenheit = 1.8 * celsius + 32.0;
+            double kelvin = celsius + 273.16;
 
-            System.out.println(days + " days is " + weeks + " weeks and " + remainingDays + " days.");
+            System.out.printf("%.2f Celsius is %.2f Fahrenheit and %.2f Kelvin.\n", celsius, fahrenheit, kelvin);
         }
 
         scanner.close();
