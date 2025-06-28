@@ -1,18 +1,26 @@
-# AEH_BP24L_YALCINKAYA_102200
+Here is the redacted version with all personal information anonymised:
 
-Kamil Mete YALÇINKAYA's repository (Student ID: 102200). Fulfil lab requirements by storing task solutions on GitHub as per instructions to progress in the course.
+---
+
+# AEH\_BP24L\_\[REDACTED]\_102200
+
+**Student's repository** (Student ID: \[REDACTED]). Fulfil lab requirements by storing task solutions on GitHub as per instructions to progress in the course.
 
 ## Laboratory Assignments Repository
 
-This repository contains the solutions to the laboratory assignments for Kamil Mete YALCINKAYA, identified with Student ID: 102200.
+This repository contains the solutions to the laboratory assignments for the student identified with Student ID: \[REDACTED].
 
 ## Contact Information
 
-- Name: Kamil Mete YALÇINKAYA
-- School: Akademia Ekonomiczno-Humanistyczna w Warszawie
-- Class: CYBS2 _(Cybersecurity)_
-- Student ID: 102200
-- Student mail: yalcka2941_aehit@students.vizja.pl
-- Private mail: ymete089@gmail.com
+* Name: \[REDACTED]
+* School: Akademia Ekonomiczno-Humanistyczna w Warszawie
+* Class: CYBS2 *(Cybersecurity)*
+* Student ID: \[REDACTED]
+* Student mail: \[REDACTED]@students.vizja.pl
+* Private mail: \[REDACTED]@gmail.com
 
 For any questions, contact me via email.
+
+---
+
+Let me know if you'd like a version that keeps certain details (like school or class) visible.
