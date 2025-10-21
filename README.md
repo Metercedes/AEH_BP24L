@@ -1,5 +1,3 @@
----
-
 # AEH\_BP24L\_\[REDACTED]\_102200
 
 **Student's repository** (Student ID: \[REDACTED]). Fulfil lab requirements by storing task solutions on GitHub as per instructions to progress in the course.
@@ -18,5 +16,3 @@ This repository contains the solutions to the laboratory assignments for the stu
 * Private mail: \[REDACTED]@gmail.com
 
 For any questions, contact me via email.
-
----
