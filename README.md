@@ -1,5 +1,3 @@
-Here is the redacted version with all personal information anonymised:
-
 ---
 
 # AEH\_BP24L\_\[REDACTED]\_102200
@@ -13,7 +11,7 @@ This repository contains the solutions to the laboratory assignments for the stu
 ## Contact Information
 
 * Name: \[REDACTED]
-* School: Akademia Ekonomiczno-Humanistyczna w Warszawie
+* School: Uniwersytet VIZJA w Warszawie (Formerly: Akademia Ekonomiczno-Humanistyczna w Warszawie)
 * Class: CYBS2 *(Cybersecurity)*
 * Student ID: \[REDACTED]
 * Student mail: \[REDACTED]@students.vizja.pl
@@ -22,5 +20,3 @@ This repository contains the solutions to the laboratory assignments for the stu
 For any questions, contact me via email.
 
 ---
-
-Let me know if you'd like a version that keeps certain details (like school or class) visible.
